@@ -213,7 +213,7 @@ class AddOption extends React.Component {
     );
   }
 }
-
+console.log("pushing it to git")
 ReactDOM.render(<IndecisionApp />, document.getElementById("app2"));
 
 
